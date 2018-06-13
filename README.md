@@ -35,3 +35,37 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 100%;
+    font-weight: normal;
+}
+a {
+    color: gray;
+}
+.title {
+    font-size: 1.5em;
+    text-align: left;
+    font-weight: normal;
+}
+h1 {
+    font-size: 2em;
+    font-weight: normal;
+}
+h2 {
+    font-size: 1.5em;
+    font-weight: normal;
+}
+h3 {
+    font-size: 1.25em;
+    font-weight: normal;
+p {
+    font-size: 0.875em;
+    font-weight: normal;
+}
+ul {
+    list-style-type: none;
+    /* margin: 0; */
+    /* padding: 0; */
+}
